@@ -1,4 +1,4 @@
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq9ejO1_n4Ck_r9kbCGSDABi5nJhGjC7ckpiA_tJ8mYQr3DVBctqDacX3TVIuYOxKDANXHYfj42v_zAmbBRCLbR_TOW9yE3cHy0svmvCHki99eOXpCkmUHn3n0KMErvAcG_nYOiuHvGmvs-r9DJZV8sMDQh5V7b2DJy_cepWxYbJGC9SwUHB3uLWzGcE2v/w640-h214/Capture.PNG">
+<img align="center" width="100%" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq9ejO1_n4Ck_r9kbCGSDABi5nJhGjC7ckpiA_tJ8mYQr3DVBctqDacX3TVIuYOxKDANXHYfj42v_zAmbBRCLbR_TOW9yE3cHy0svmvCHki99eOXpCkmUHn3n0KMErvAcG_nYOiuHvGmvs-r9DJZV8sMDQh5V7b2DJy_cepWxYbJGC9SwUHB3uLWzGcE2v/w640-h214/Capture.PNG">
 <h1 align="center">Hi 👋, I'm Muhammad Shahbaz</h1>
 <h3 align="center">A passionate Frontend developer from Pakistan</h3>
 
